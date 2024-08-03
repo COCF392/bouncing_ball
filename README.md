@@ -1,0 +1,2 @@
+# bouncing_ball
+Very, very, basic program which simulates a single bouncy ball. I made this purely because I wanted to see if I could, which turned out well. I don't know if I'll actually update this further, but for now I'm just uploading this to add it to my github portfolio.
